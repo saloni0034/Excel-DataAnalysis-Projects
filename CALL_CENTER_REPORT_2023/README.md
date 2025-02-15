@@ -1,9 +1,11 @@
 **📞 Call Center Report Analysis | Excel Dashboard & Insights**
 
 📊 Overview
+
 This project provides an in-depth analysis of call center performance using Excel dashboards. It includes interactive pivot tables, slicers, and charts to visualize key call center metrics like call volume, response time, and agent efficiency.
 
 📝 Features
+
 📈 Interactive Dashboard: Visual insights with slicers and filters
 📊 Pivot Table Analysis: Summarized call data for better decision-making
 📞 Agent Performance Tracking: Calls handled, resolution rate, and customer satisfaction
@@ -11,6 +13,7 @@ This project provides an in-depth analysis of call center performance using Exce
 🔍 Return & Issue Analysis: Identify patterns in service requests
 
 **🔧 How to Use**
+
 Download the Excel file from the repository.
 Enable Editing if prompted.
 Interact with Slicers & Filters to explore different metrics.
