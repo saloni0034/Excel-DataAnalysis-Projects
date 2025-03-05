@@ -17,8 +17,9 @@ Here’s how I approached it:
 ⚙️ If filters are applied, use the VBA macro button to clear all filters.
 
 📌 Check out the dashboard snapshots!
-![Screenshot 2025-03-05 005247](https://github.com/user-attachments/assets/50f54e66-1647-4b80-a313-c5f7fdd245bc)
+![image](https://github.com/user-attachments/assets/ddaf5b3f-f307-43b7-9f89-5d5412d77702)
 
-![Screenshot 2025-03-05 125915](https://github.com/user-attachments/assets/77899399-7ae2-43fa-a20d-69d168088844)
+![image](https://github.com/user-attachments/assets/6d1243c2-2b33-46ae-a30f-792bbf52d580)
+
 
 
